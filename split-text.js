@@ -41,7 +41,7 @@ $(".heading-1, .heading-2").each(function () {
 
     // ✅ Feste line-heights für heading-1 und heading-2 + Masken-Abstände
     $(".heading-1 .split-lines").css({
-      lineHeight: "1.3",
+      lineHeight: "1",
       paddingBlock: "1em",
       marginBlock: "-1em",
       transformOrigin: "top center",
@@ -49,7 +49,7 @@ $(".heading-1, .heading-2").each(function () {
     });
 
     $(".heading-2 .split-lines").css({
-      lineHeight: "1.4",
+      lineHeight: "1.3",
       paddingBlock: "1em",
       marginBlock: "-1em",
       transformOrigin: "top center",
