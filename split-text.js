@@ -1,4 +1,3 @@
-<scirpt>
 // Keep track of window width for responsive re-initialization
 let windowWidth = window.outerWidth;
 
@@ -133,4 +132,3 @@ function createTextAnimations() {
 
 createTextAnimations();
 
-</scirpt>
